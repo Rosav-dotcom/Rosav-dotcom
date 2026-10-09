@@ -98,7 +98,7 @@ I build REST APIs with Node.js (NestJS) and Python (FastAPI, Flask), design rela
 **Networking Basics**  
 Cisco Networking Academy · 2026 · [View credential](https://www.credly.com/earner/earned/share/8e62b5b3-0d03-4b42-b70f-0964f6e930fa)
 
-## 📬 Contacto
+##  Contacto
 
-- **LinkedIn:** [Dayana Gretel Rojas Valencia]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/dayana-gretel-rojas-valencia-a9941a441/?isSelfProfile=true))
+- **LinkedIn:** [Dayana Gretel Rojas Valencia](https://www.linkedin.com/in/dayana-gretel-rojas-valencia-a9941a441/)
 - **Email:** [rojasvalenciadayanagretel@gmail.com](mailto:rojasvalenciadayanagretel@gmail.com)
