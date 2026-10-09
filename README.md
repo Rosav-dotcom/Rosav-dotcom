@@ -1,4 +1,4 @@
-# Hi there, I'm Dayana Gretel Rojas Valencia 👋
+# Hi there, I'm Dayana Gretel Rojas Valencia 
 
 ## About Me
 
