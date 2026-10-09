@@ -5,11 +5,11 @@
 Systems Engineering student at Universidad Católica Boliviana "San Pablo" (La Paz, Bolivia), focused on **backend development, databases and software architecture**.
 I build REST APIs with Node.js (NestJS) and Python (FastAPI, Flask), design relational databases with PostgreSQL and Supabase, and develop web and mobile apps with React and Flutter.
 
-- 🚀 Currently working on **CAM-Run**, a production platform for a charity race that raises funds for a women's support center in Bolivia
-- 🏗️ Software Architect & Backend Developer for a patent-registration platform for robotics inventors
-- 🗄️ Designed the database for the Sports Department system of UCB
-- 🧪 Former Computer Lab Assistant at UCB (2025)
-- 🌎 Spanish (native) · English (intermediate) · Korean (basic)
+- Currently working on **CAM-Run**, a production platform for a charity race that raises funds for a women's support center in Bolivia
+- Software Architect & Backend Developer for a patent-registration platform for robotics inventors
+- Designed the database for the Sports Department system of UCB
+- Former Computer Lab Assistant at UCB (2025)
+- Spanish (native) · English (intermediate) · Korean (basic)
 
 ---
 
