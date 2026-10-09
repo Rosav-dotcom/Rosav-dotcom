@@ -92,8 +92,8 @@ I build REST APIs with Node.js (NestJS) and Python (FastAPI, Flask), design rela
 ## Certifications
 
 <a href="https://www.credly.com/earner/earned/share/8e62b5b3-0d03-4b42-b70f-0964f6e930fa">
-  <img src="https://img.shields.io/badge/Cisco-Basic%20Network%20Concepts-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Basic Network Concepts"/>
+  <img src="cisco-networking-basics.png" width="120" alt="Cisco Networking Basics"/>
 </a>
 
-**Basic Network Concepts**  
+**Networking Basics**  
 Cisco Networking Academy · 2026 · [View credential](https://www.credly.com/earner/earned/share/8e62b5b3-0d03-4b42-b70f-0964f6e930fa)
